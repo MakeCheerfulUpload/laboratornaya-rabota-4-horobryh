@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schedule>
+  <day>
+    <day_date>cб, 29 октября</day_date>
+    <lesson1>
+      <time>
+        <start>11:40</start>
+        <end>13:10</end>
+      </time>
+      <body>
+        <type>Лекция</type>
+        <name>Математика (базовый уровень)</name>
+        <info>
+          <teacher>Правдин Константин Владимирович</teacher>
+          <place>Ауд. 1404, Кронверкский пр., д.49, лит.А</place>
+          <distant>Очный</distant>
+        </info>
+      </body>
+    </lesson1>
+    <lesson2>
+      <time>
+        <start>11:40</start>
+        <end>13:10</end>
+      </time>
+      <body>
+        <type>Лекция</type>
+        <name>Математика (базовый уровень)</name>
+        <info>
+          <teacher>Правдин Константин Владимирович</teacher>
+          <place>Ауд. 2201 (бывш. 206), Кронверкский пр., д.49, лит.А</place>
+          <distant>Очно-дистанционный</distant>
+        </info>
+      </body>
+    </lesson2>
+    <lesson3>
+      <time>
+        <start>13:30</start>
+        <end>15:00</end>
+      </time>
+      <body>
+        <type>Лекция</type>
+        <name>Математика (базовый уровень)</name>
+        <info>
+          <teacher>Правдин Константин Владимирович</teacher>
+          <place>Ауд. 1404, Кронверкский пр., д.49, лит.А</place>
+          <distant>Очный</distant>
+        </info>
+      </body>
+    </lesson3>
+    <lesson4>
+      <time>
+        <start>13:30</start>
+        <end>15:00</end>
+      </time>
+      <body>
+        <type>Лекция</type>
+        <name>Математика (базовый уровень)</name>
+        <info>
+          <teacher>Правдин Константин Владимирович</teacher>
+          <place>Ауд. 2201 (бывш. 206), Кронверкский пр., д.49, лит.А</place>
+          <distant>Очно-дистанционный</distant>
+        </info>
+      </body>
+    </lesson4>
+    <lesson5>
+      <time>
+        <start>11:40</start>
+        <end>13:10</end>
+      </time>
+      <body>
+        <type>Лекция</type>
+        <name>Математика (базовый уровень)</name>
+        <info>
+          <teacher>Правдин Константин Владимирович</teacher>
+        </info>
+      </body>
+
+  </day>
+
+</schedule>
